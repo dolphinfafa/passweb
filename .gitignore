@@ -1,0 +1,7 @@
+#sql
+db.sqlite3
+
+#python
+__pycache__/
+*.py[cod]
+*.py~
