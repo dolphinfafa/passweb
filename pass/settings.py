@@ -21,11 +21,11 @@ TEMPLATE_PATH = os.path.join(BASE_DIR, 'templates')
 SECRET_KEY = 's^#)p$hzaq^%bsfu-v=v8set(*gfk&+7a5#69*a9jxm1jld&v='
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-TEMPLATE_DEBUG = True
+TEMPLATE_DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.wangyi4sb.com']
 
 
 # Application definition
